@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋
 
 - 🔭 I am a Physics PhD candidate working on Quantum Choas and Quantum Computing. I share here some of my research and fun projects spanning fields of Quantum Error Correction Codes (QECCs), Quantum Simulation, and Machine Learning.
 - 👯 I’m looking to collaborate on ideas of using quantum computing power to further understand complexity in chaotic quantum systems.
