@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a Physics PhD candidate working on Quantum Choas and Quantum Computing. I share here some of my research and fun projects spanning fields of Quantum Error Correction Codes (QECCs), Quantum Simulation, and Machine Learning.
+I have experience working with multiple quantum platforms including Dwave machines, IonQ quantum processors, IBM's processors and platform as well as Microsoft Azure.
+I plan to share here some of the tutorials that I used in teaching a graduate Quantum Information class.
+The best way to reach me is over my email: rismail@uky.edu
+
 <!--
 **RefatIsmail96/RefatIsmail96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
